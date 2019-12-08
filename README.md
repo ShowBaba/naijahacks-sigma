@@ -1,6 +1,6 @@
 # naijahacks-sigma
 
-###NaijaHacks Hackathon 2019
+### NaijaHacks Hackathon 2019
 
 ### Team Sigma
 
