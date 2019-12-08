@@ -5,7 +5,7 @@
 ### Team Sigma
 
 ### Team Members
-	- Shoyemi Samuel samwise858@gmail.com
+	- Shoyemi Samuel (samwise858@gmail.com)
 	- Metibemu Kehinde 
 	- Fadare Victoria ayomidefadare26@gmail.com
 	- Gabriel Ikuejawa
