@@ -14,7 +14,7 @@
 There are lots of Nigerians out there with good skills, but lack the connection needed to get a client
 
 ### Proposed Solution
-A freelance platform where people willing to offer tasks and services can be connected in real time
+A freelance platform where people willing to offer tasks and services can be connected in real time to clents willing to hire.
 
 ### Proposed Stack
 - HTML
