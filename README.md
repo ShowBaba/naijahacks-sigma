@@ -5,10 +5,10 @@
 ### Team Sigma
 
 ### Team Members
-	- Shoyemi Samuel (samwise858@gmail.com)
-	- Metibemu Kehinde 
-	- Fadare Victoria ayomidefadare26@gmail.com
-	- Gabriel Ikuejawa
+	- [Shoyemi Samuel](samwise858@gmail.com)
+	- Metibemu Kehinde (metikenny@gmail.com)
+	- Fadare Victoria (ayomidefadare26@gmail.com)
+	- Gabriel Ikuejawa (ikuejawadestiny@gmail.com)
 
 ### Problem
 There are lots of Nigerians out there with good skills, but lack the connection needed to get a client
