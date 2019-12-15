@@ -10,6 +10,8 @@
 	- Fadare Victoria  (ayomidefadare26@gmail.com)
 	- Gabriel Ikuejawa  (ikuejawadestiny@gmail.com)
 
+### Project Name: GetAJob Freelance Services 
+
 ### Problem
 There are lots of Nigerians out there with good skills, but lack the connection needed to get a client
 
