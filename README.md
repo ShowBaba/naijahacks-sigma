@@ -22,6 +22,8 @@ A freelance platform where people willing to offer tasks and services can be con
 - HTML
 - CSS
 - JS
+- MySQL 
+- PHP
 
 ### Benefits 
 * Quick and easy connect for someone looking to hire a service or task 
